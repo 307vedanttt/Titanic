@@ -100,6 +100,7 @@ OR
 
 ## 📈 Future Improvements
 
+
 - Add probability-based prediction output
 - Compare multiple classification models
 - Improve UI with visual explanations
